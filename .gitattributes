@@ -1,0 +1,15 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Force binary files to be handled as binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.fbx binary
+*.unity binary
+*.prefab binary
+*.dll binary
+*.exe binary
+
+# Ignore meta files from normalization
+*.meta text eol=lf
