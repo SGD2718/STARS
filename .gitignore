@@ -71,39 +71,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-# Rider IDE
-.idea/
-.idea_modules/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries/
-.idea/libraries/
-.idea/assetIndex/
-.idea/shelf/
-.idea/caches/
-.idea/modules.xml
-.idea/misc.xml
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# File-based caches (general cleanup)
-*.stackdump
-*.pidb
-*.pidb.meta
-*.obj
-*.meta
-
-# Avoid excluding shared settings
-!Assets/**/*.meta
-!ProjectSettings/
-!Packages/
